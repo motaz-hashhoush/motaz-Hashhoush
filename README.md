@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Motaz Hshhoush</h1>
 <h3 align="center">Data Scientist and AI Specialist</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@hashhoush.motaz](https://medium.com/@hashhoush.motaz)
+- 📝 I regularly write articles on [Medium](https://medium.com/@hashhoush.motaz)
 
 - 📫 How to reach me **hashhoush.motaz@gmail.com**
 
-- 📄 Know about my experiences [https://www.notion.so/Motaz-Hashhoush-Data-Science-56a90a7e21394fb790f0ce57176df4f6](https://www.notion.so/Motaz-Hashhoush-Data-Science-56a90a7e21394fb790f0ce57176df4f6)
+- 📄 Know about my experiences [Portfolio](https://www.notion.so/Motaz-Hashhoush-Data-Science-56a90a7e21394fb790f0ce57176df4f6)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
