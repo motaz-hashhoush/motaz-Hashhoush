@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Motaz Hshhoush</h1>
 <h3 align="center">Data Scientist and AI Specialist</h3>
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@hashhoush.motaz)
+<!-- - 📝 I regularly write articles on [Medium](https://medium.com/@hashhoush.motaz) -->
 
 - 📫 How to reach me **hashhoush.motaz@gmail.com**
 
@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/motaz-hashhoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="motaz-hashhoush" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/motaz-hashhoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="motaz-hashhoush" height="30" width="40" /></a> <!-- 
 <a href="https://medium.com/@hashhoush.motaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hashhoush.motaz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/motaz-hashhoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="motaz-hashhoush" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/motaz-hashhoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="motaz-hashhoush" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
