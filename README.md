@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [Portfolio](https://www.notion.so/Motaz-Hashhoush-Data-Science-56a90a7e21394fb790f0ce57176df4f6)
 
-### Blogs posts
+<!-- ### Blogs posts  -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
